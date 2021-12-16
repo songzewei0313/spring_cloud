@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      config: #注意是配置管理config，不是discover
+        server-addr: localhost:8848 #nacos 地址
+        file-extension: yaml

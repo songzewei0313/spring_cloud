@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="387d08ea-a170-45e8-abd3-976dccfb428f" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\enviroments\repository_szw" />
+        <option name="userSettingsFile" value="D:\enviroments\settings_song.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="221sMUlyVxVTzGfZA4URdOX9pZx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jianding/anji/comyxappraisal/pom.xml" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\mycode\spring_cloud\gateway\src\main\resources" />
+      <recent name="D:\project\mycode\spring_cloud\order_center\src\main\java\com\song\orderCenter\pojo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.song.pojo" />
+      <recent name="com.song.feignclients" />
+      <recent name="com.song.orderCenter.pojo" />
+      <recent name="com.song.userCenter.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.song.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order_center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.orderCenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.song.orderCenter.OrderCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user_center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.userCenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.song.userCenter.UserCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="user_center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.userCenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.song.userCenter.UserCenterApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8012" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplication3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="user_center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.userCenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.song.userCenter.UserCenterApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8013" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.OrderCenterApplication" />
+      <item itemvalue="Spring Boot.UserCenterApplication2" />
+      <item itemvalue="Spring Boot.UserCenterApplication3" />
+      <item itemvalue="Spring Boot.UserCenterApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserCenterApplication" />
+        <item itemvalue="Spring Boot.UserCenterApplication3" />
+        <item itemvalue="Spring Boot.UserCenterApplication2" />
+        <item itemvalue="Spring Boot.OrderCenterApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="387d08ea-a170-45e8-abd3-976dccfb428f" name="变更" comment="" />
+      <created>1639016380748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639016380748</updated>
+      <workItem from="1639016382133" duration="1427000" />
+      <workItem from="1639018442982" duration="16815000" />
+      <workItem from="1639040456242" duration="2023000" />
+      <workItem from="1639096268551" duration="1208000" />
+      <workItem from="1639097522502" duration="134000" />
+      <workItem from="1639097675647" duration="12670000" />
+      <workItem from="1639126804792" duration="2065000" />
+      <workItem from="1639355524931" duration="2186000" />
+      <workItem from="1639358749157" duration="9955000" />
+      <workItem from="1639441248396" duration="7975000" />
+      <workItem from="1639462289600" duration="192000" />
+      <workItem from="1639462502462" duration="9083000" />
+      <workItem from="1639529283498" duration="7996000" />
+      <workItem from="1639615205845" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.netflix.hystrix:hystrix-core" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-server" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jul-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.bind:jakarta.xml.bind-api" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-loadbalancer" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:com.zaxxer:HikariCP" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.eureka:eureka-client" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-actuator-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.gson:gson" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjweaver" />
+    <option featureType="dependencySupport" implementationName="java:xpp3:xpp3_min" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml:classmate" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jsr310" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-hystrix" />
+    <option featureType="dependencySupport" implementationName="java:javax.ws.rs:jsr311-api" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:jaxb-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-websocket" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-archaius" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-classic" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:com.alibaba:druid" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-eureka-server" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:txw2" />
+    <option featureType="dependencySupport" implementationName="java:commons-lang:commons-lang" />
+    <option featureType="dependencySupport" implementationName="java:org.freemarker:freemarker" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-tx" />
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-rsa" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jcl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-web" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-aop" />
+    <option featureType="dependencySupport" implementationName="java:org.bouncycastle:bcprov-jdk15on" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpcore" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-core" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jettison:jettison" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-eureka-client" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss.logging:jboss-logging" />
+    <option featureType="dependencySupport" implementationName="java:commons-collections:commons-collections" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-freemarker" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-commons" />
+    <option featureType="dependencySupport" implementationName="java:com.google.guava:guava" />
+    <option featureType="dependencySupport" implementationName="java:antlr:antlr" />
+    <option featureType="dependencySupport" implementationName="java:org.yaml:snakeyaml" />
+    <option featureType="dependencySupport" implementationName="java:org.mybatis:mybatis" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-archaius" />
+    <option featureType="dependencySupport" implementationName="java:commons-configuration:commons-configuration" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-ribbon" />
+    <option featureType="dependencySupport" implementationName="java:org.mybatis:mybatis-spring" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-json" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.eureka:eureka-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-expression" />
+    <option featureType="dependencySupport" implementationName="java:org.reactivestreams:reactive-streams" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jdk8" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-actuator" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.dataformat:jackson-dataformat-xml" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxnetty-servo" />
+    <option featureType="dependencySupport" implementationName="java:org.latencyutils:LatencyUtils" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpclient" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.woodstox:stax2-api" />
+    <option featureType="dependencySupport" implementationName="java:mysql:mysql-connector-java" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:stringtemplate" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-parameter-names" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-statistics" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.hdrhistogram:HdrHistogram" />
+    <option featureType="dependencySupport" implementationName="java:javax.inject:javax.inject" />
+    <option featureType="dependencySupport" implementationName="java:commons-codec:commons-codec" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:antlr-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-validation" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-client" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-eventbus" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-httpclient" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-beans" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-transport" />
+    <option featureType="dependencySupport" implementationName="java:stax:stax-api" />
+    <option featureType="dependencySupport" implementationName="java:org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-ribbon" />
+    <option featureType="dependencySupport" implementationName="java:joda-time:joda-time" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-actuator" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.activation:jakarta.activation-api" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.xml.fastinfoset:FastInfoset" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-cache" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-jaxb-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-math" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-netflix-eureka-client" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey.contribs:jersey-apache-client4" />
+    <option featureType="dependencySupport" implementationName="java:org.jvnet.staxex:stax-ex" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-crypto" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-tomcat" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxnetty" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:xmlpull:xmlpull" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-netflix-eureka-server" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxnetty-contexts" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-servlet" />
+    <option featureType="dependencySupport" implementationName="java:aopalliance:aopalliance" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-eureka" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.annotation:jakarta.annotation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-loadbalancer" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context-support" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.archaius:archaius-core" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.findbugs:jsr305" />
+    <option featureType="dependencySupport" implementationName="java:com.thoughtworks.xstream:xstream" />
+    <option featureType="dependencySupport" implementationName="java:commons-jxpath:commons-jxpath" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor.addons:reactor-extra" />
+    <option featureType="dependencySupport" implementationName="java:io.micrometer:micrometer-core" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.servo:servo-core" />
+    <option featureType="dependencySupport" implementationName="java:com.stoyanr:evictor" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-core" />
+    <option featureType="dependencySupport" implementationName="java:org.mybatis.spring.boot:mybatis-spring-boot-starter" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.istack:istack-commons-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aop" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.woodstox:woodstox-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-starter-loadbalancer" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-infix" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.netflix-commons:netflix-commons-util" />
+    <option featureType="dependencySupport" implementationName="java:org.bouncycastle:bcpkix-jdk15on" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-web" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-el" />
+    <option featureType="dependencySupport" implementationName="java:log4j:log4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-api" />
+    <option featureType="dependencySupport" implementationName="java:com.netflix.ribbon:ribbon-core" />
+  </component>
+</project>
